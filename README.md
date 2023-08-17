@@ -4,7 +4,7 @@
 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg](https://icons8.com/icon/bzf0DqjXFHIW/react)?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arnav-Panchal&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=Arnav-Panchal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
