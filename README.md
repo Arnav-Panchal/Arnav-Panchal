@@ -1,9 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+🚀 Self-taught and endlessly curious developer.
+
 
 **About me**
 
+I'm all about Java backend sorcery, React frontend adventures, and conjuring interactive designs on Figma.
 
-# 💻 Tech Stack:
+Join me in the coding realm! 😄👨‍💻
+
+
+## 💻 Tech Stack:
 ![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg](https://icons8.com/icon/bzf0DqjXFHIW/react)?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arnav-Panchal&theme=dark&hide_border=false)
