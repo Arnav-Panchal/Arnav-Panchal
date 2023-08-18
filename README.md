@@ -3,11 +3,13 @@
 🚀 Self-taught and endlessly curious developer.
 
 
-**About me**
+
+## 👨‍💻 About me:
 
 I'm all about Java backend sorcery, React frontend adventures, and conjuring interactive designs on Figma.
 
 Join me in the coding realm! 😄👨‍💻
+
 
 
 ## 💻 Tech Stack:
